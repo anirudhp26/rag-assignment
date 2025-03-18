@@ -1,0 +1,7 @@
+langchain
+langchain_community
+streamlit
+PyPDF2
+torch
+sentence_transformers
+weaviate-client
