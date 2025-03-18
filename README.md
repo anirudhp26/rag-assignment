@@ -20,3 +20,4 @@ This project is licensed under the MIT License.
 
 - [Sentence Transformers](https://www.sbert.net/)
 - [Weaviate](https://weaviate.io/)
+- [Tutorial](https://github.com/alejandro-ao/ask-multiple-pdfs)
